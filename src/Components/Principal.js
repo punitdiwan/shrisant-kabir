@@ -15,7 +15,7 @@ const Principal = () => {
               <div className="photos">
                 <img src="./images1/princ.jpeg.webp" alt="" />
                 <div className="phname">
-                  <b>Principal</b> - Mrs. Prabha Devra
+                  <b>Principal</b> - Mrs. Rashmi panariya
                 </div>
               </div>
 
@@ -80,12 +80,13 @@ const Principal = () => {
             <p>
             </p>
             <p>
-              <b>Mrs Prabha Devra, Principal -</b>
+              <b>Mrs Rashmi panariya, Principal -</b>
             </p>
             {/* <p>Shri Sant Kabeer Convent H.S. School </p> */}
             <p>
-            21 Nagar Nigam Colony, Chhola Road, Nagar Nigam Colony, Bhopal - 462001, India
-              <p>School Phone: +91 07947103288</p>
+            21 Nagar Nigam colony near Sai temple chhola road Bhopal
+            <p>School Phone: +91  7697852309</p>
+            <p>School Phone: +91  9993182277 </p>
               
             </p>
           </div>

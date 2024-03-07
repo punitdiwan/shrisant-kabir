@@ -16,7 +16,7 @@ const HlastSection = () => {
           </div>
           <div className="hlsmid text-center p-5">
             <div className="card_img my-5">
-              <img src="./images/logo.png" alt="" />
+              <img src="./images1/mlogo.png" alt="" />
             </div>
             <div className="title1 my-5">
               <div className="hlstbutton">
