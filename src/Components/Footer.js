@@ -28,7 +28,7 @@ const Footer = () => {
 
        <div className="footerleft">
          <div className="logo">
-            <img src="./images1/hlogo1.png" alt="" />
+            <img src="./images1/flogo.png" alt="" />
          </div>
        </div>
        <div className="fbrightt">
@@ -56,7 +56,7 @@ const Footer = () => {
     
     
     <div className="fbtm">
-            <p>7CM9+QF3, Chola, Bhanpur, Bhopal, Madhya Pradesh 462038, India
+            <p>21 Nagar Nigam colony near Sai temple chhola road Bhopal, Madhya Pradesh , India
 
          </p>
            </div>

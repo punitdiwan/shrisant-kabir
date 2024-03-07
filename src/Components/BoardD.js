@@ -16,7 +16,7 @@ const BoardD = () => {
               <div className="photos">
                 <img src="./images1/director.webp" alt="" />
                 <div className="phname">
-                  <b>Director</b> - Dr. Gagan Namdev
+                  <b>Director</b> - Mr. A.D panariya
                 </div>
               </div>
 
@@ -79,11 +79,11 @@ const BoardD = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>Dr. Gagan Namdev</td>
+                  <td>Mr. A.D panariya</td>
                   <td>Director</td>
                 </tr>
                 <tr>
-                  <td>Mrs. Prabha Devra</td>
+                  <td>Mrs. Rashmi panariya</td>
                   <td>Principal</td>
                 </tr>
 
